@@ -1,0 +1,277 @@
+body{
+	
+	background-size: 340px;
+	background-repeat: no-repeat;
+	Font-family: Rockwell, Courier Bold, Courier, Georgia, Times, Times New Roman, serif;
+	background-color: #0F1923;
+	background-position: right;
+    }
+
+p,h1,h2{
+	color: white;
+	padding-left: ;
+}
+
+.logo{
+	width: 200px;
+	height: 20px;
+}
+
+/**** BARRA NAVEGAÇÃO ****/
+#barra-navegacao{
+	background:#FF4655;
+}
+
+.navbar-dark .navbar-nav .nav-link{
+	color: white;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover{
+	color: black;
+}
+
+body.sobre_o_jogo #navegacao a#sobre_o_jogo,
+body.mapas #navegacao a#mapas,
+body.armas #navegacao a#armas,
+body.personagens #navegacao a#personagens,
+body.campeonatos #navegacao a#campeonatos,
+body.noticias #navegacao a#noticias,
+body.sobre_nos1 #navegacao a#sobre_nos2
+{
+	color: #ADD8E6;
+	cursor: text;
+}
+
+
+/**** CONTEÚDO HOME ****/
+
+h1{ 
+	font-family: Impact, fantasy;
+	color: #FF4655;
+}
+
+.inicio{
+	padding-top: 120px;
+	font-size: 17px;
+}
+
+
+
+/**** CONTEÚDO SOBRE O JOGO ****/
+#informacao_jogo{
+	padding: 30px 50px 30px 50px;
+	font-size: px;
+}
+
+h2{
+    font-family: Impact, fantasy;
+	color: #FF4655;
+}
+
+/**** CONTEÚDO MAPAS****/
+#mapa1, #mapa2, #mapa3, #mapa4, #mapa5, #mapa6, #mapa7, #mapa8, #mapa9{
+	padding: 0 50px 0px 50px;
+}
+
+.marcador{
+	font-size: 18px;
+}
+
+.container-borda{
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+
+.titulo_mapas{
+	padding-top: 60px;
+	font-size: 70px;
+	text-align: center;
+}
+
+/**** CONTEÚDO ARMAS ****/
+.titulo_armas{
+	font-family: Impact, fantasy;
+	font-size: 45px;
+	text-align: center;
+	padding-top: 50px;
+}
+
+.container_armas{
+	padding: 30px 30px 30px 30px;
+}
+
+/**** CONTEÚDO SOBRE NOS ****/
+.eu,.bruno{
+	width: 400px;
+	height: 400px;
+}
+
+#informacoes_pessoais{
+	padding: 50px 0px 0px 50px;
+}
+
+#sobre_nos1{
+   font: ;
+}
+
+.navbar-toggler-icon {
+    display: inline-block;
+    width: 1.5em;
+    height: 1.5em;
+    vertical-align: middle;
+    content: "teste";
+    background: 50% 100% 100% no-repeat;
+}
+
+.classic{
+	padding: 50px 0px 0px 130px;
+}
+
+.classic_vandal{
+	padding: 50px 0px 0px 0px;
+}
+
+.classic_phantom{
+	padding: 50px 0px 0px 20px
+}
+
+.classic_bulldog{
+	padding: 50px 0px 0px 0px;
+}
+
+.classic_guardian{
+	padding: 50px 0px 0px 0px;
+}
+
+.classic_marchal{
+	padding: 50px 0px 0px 0px;
+}
+
+.classic_operator{
+	padding: 50px 0px 0px 0px;
+}
+
+.classic_bucky{
+	padding: 80px 0px 0px 50px;
+}
+
+.classic_judge{
+	padding: 80px 0px 0px 50px;
+}
+
+.classic_ares{
+	padding: 80px 0px 0px 50px;
+}
+
+.classic_odin{
+	padding: 80px 0px 0px 50px;
+}
+
+/**** CONTEÚDO PERSONAGENS ****/
+.imagem_jett{
+	width: 400px;
+}
+
+
+#informacao_jogo2{
+	padding: 200px 100px 0px 100px;
+	font-size: 25px;
+}
+
+/**** CONTEÚDO NOTICIAS ****/
+.noticia1{
+  padding-top: 70px;
+  padding-bottom: 150px;
+}
+
+.end1{
+	color: #FF4655;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+.end1:hover{
+	color: #ADD8E6;
+}
+
+.imagem1{
+	border: 1px solid red;
+    width: 350px;
+    height: 300px;
+}
+
+.loud{
+	width: 350px;
+	height: 300px;
+}
+
+/**** CONTEÚDO CAMPEONATOS ****/
+.titulo_campeonatos{
+	text-align: center;
+	padding: 50px 0px 30px 0px;
+}
+
+.logo_dach{
+	padding: 0px 0px 50px 200px;
+}
+
+.logo_magyar, .logo_queens, .logo_elite, .logo_MCT, .logo_crossfire, .logo_series, .logo_split{
+	padding: 0px 0px 50px 100px;
+	width: 468px;
+	height: 257px;
+}
+
+
+.informacao_campeonatos{
+	float: right;
+	padding: 40px 480px 0px 0px;
+}
+
+.informacao_campeonatos2{
+	float: right;
+	padding: 40px 380px 0px 0px;
+}
+
+.informacao_campeonatos3{
+	float: right;
+	padding: 40px 350px 0px 0px;
+}
+
+.informacao_campeonatos4{
+	float: right;
+	padding: 40px 450px 0px 0px;
+}
+
+.informacao_campeonatos5{
+	float: right;
+	padding: 40px 450px 0px 0px;
+}
+
+.informacao_campeonatos6{
+	float: right;
+	padding: 40px 330px 0px 0px;
+}
+
+.informacao_campeonatos7{
+	float: right;
+	padding: 40px 450px 0px 0px;
+}
+
+.informacao_campeonatos8{
+	float: right;
+	padding: 40px 450px 0px 0px;
+}
+
+.informacao_campeonatos9{
+	float: right;
+	padding: 40px 400px 0px 0px;
+}
+
+.logo_peru{
+	padding: 0px 60px 50px 200px;
+	width: 568px;
+	height: 257px;
+
+}
+
+

@@ -1,0 +1,94 @@
+CLASSIC.
+TIPO // ARMAS LEVES
+Seu modo primário faz disparos precisos quando o jogador está parado. 
+Além disso, ela vem equipada com um modo alternativo de rajadas para combates de curta distância.
+
+SHORTY.
+TIPO // ARMAS LEVES
+Uma escopeta rápida de cano curto e altamente letal a curta distância, mas que dispara apenas dois tiros antes de precisar recarregar. 
+Combina bem com armas de longa distância.
+
+FRENZY.
+TIPO // ARMAS LEVES
+Frenzy é uma metralhadora de mão leve e excelente para usar em movimento. 
+Sua alta cadência de tiro pode ser difícil de controlar, então tente disparar rajadas curtas a distâncias intermediárias.
+
+GHOST.
+TIPO // ARMAS LEVES
+Ghost é uma arma precisa que conta com um grande carregador, o que ajuda a compensar qualquer erro seu. 
+Para acertar alvos distantes, é preciso manter a cadência de tiro controlada. 
+E para acertar alvos de perto, pode sentar o dedo no gatilho.
+
+SHERIFF.
+TIPO // ARMAS LEVES
+Seus projéteis de alto impacto provocam bastante recuo, então é preciso ter pulso firme.
+Quando você domina esta arma, seus inimigos logo percebem que nunca tiveram chance.
+
+STINGER.
+TIPO // SUBMETRALHADORAS
+Esta submetralhadora tem mais potência a médias e longas distâncias, à custa da cadência de tiro e mobilidade.
+Seu carregador de 20 projéteis é contrabalançado por sprays que provocam bastante recuo. 
+Em compensação, esta arma dispara tiros letais a distâncias intermediárias com a ajuda da mira e de fogo controlado.
+
+SPECTRE.
+TIPO // SUBMETRALHADORAS
+Spectre é uma arma faz-tudo com ótimo equilíbrio entre dano, cadência de tiro e precisão – 
+tudo isso a distâncias curtas e intermediárias.
+Ela assombra as esquinas de todo mapa e requer apenas uma mira estável para acabar com os inimigos a longa distância.
+
+BUCKY.
+TIPO // ESCOPETAS
+Pesada, porém estável, Bucky tem um modo primário que serve para segurar avanços em esquinas acirradas ou 
+ajudar na investida em áreas pequenas.
+
+JUDGE.
+TIPO // ESCOPETAS
+Ela é estável com seus tiros normais, mas se torna volátil em disparos rápidos.
+Seu modo primário acaba com os alvos a curta distância, 
+mas você precisará de uma mira estável para acertar qualquer coisa que esteja além do alcance do seu braço.
+
+BULLDOG.
+TIPO // FUZIS
+Este fuzil pode se tornar uma verdadeira máquina mortífera. 
+Seu modo secundário permite que o atirador use a mira e descarregue rajadas curtas e precisas em qualquer um que se aproximar a distâncias intermediárias a longas.
+
+GUARDIAN.
+TIPO // FUZIS
+Por ser um fuzil estilo DMR, Guardian é mais pesado e oferece menos mobilidade do que outros fuzis, mas seus disparos são precisos e poderosos. 
+Saia caçando inimigos a distâncias longas e intermediárias
+
+PHANTOM.
+TIPO // FUZIS
+Aproveite a automação desta arma para atingir qualquer um que tente se aproximar. 
+Lance rajadas curtas e controladas para dispersar inimigos em qualquer lugar. 
+Phantom tem um desempenho melhor quando o atirador está parado.
+
+VANDAL.
+TIPO // FUZIS
+Em compensação, se disparar por muito tempo, sua estabilidade é prejudicada. 
+Vandal concede bastante dano a longa distância e recompensa aqueles que focam em um único tiro certeiro na cabeça do alvo.
+
+MARSHAL.
+TIPO // FUZIS DE PRECISÃO
+Marshal é um fuzil de precisão ágil e de zoom único que consegue manter longe aqueles inimigos insistentes. 
+Devido à cadência mais lenta, você precisará acertar seus disparos ou ficará vulnerável a ataques.
+
+OPERATOR.
+TIPO // FUZIS DE PRECISÃO
+Operator é um fuzil de precisão intenso com zoom duplo altamente eficiente. 
+Esta arma tem um desempenho péssimo em movimento, mas dispara projéteis absurdamente poderosos que podem devastar uma equipe inteira com um só tiro.
+
+ARES.
+TIPO // METRALHADORAS
+Ares conta com um carregador enorme e se destaca em fogo de supressão ou causando muito dano a grupos concentrados de inimigos.
+
+ODIN.
+TIPO // METRALHADORAS
+Odin conta com disparos que causam bastante dano e anulam ataques com uma estabilidade surpreendente. 
+Use sprays contra inimigos a curta distância e troque para o modo secundário para se tornar uma torreta ambulante.
+
+FACA TÁTICA.
+TIPO // CONFRONTO
+Quando você ficar sem balas ou estiver em dúvida sobre o que fazer, dê uma facada no adversário. 
+Com esta faca, você poderá correr mais rápido, destruir objetos mais depressa e acertar seus inimigos de uma vez só bem nas costas com o modo secundário.
+(Famosa faquinha boa...)
